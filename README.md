@@ -15,3 +15,9 @@ The algorithm works by identifying pixels in an image that form connected compon
 Overall, MSER is a powerful tool for computer vision tasks that require reliable and robust region detection in images.
 
 MSER is present in Opencv library.
+
+
+Required Library:
+OpenCV for image processing and MSER.
+Pytorch and easyocr for text extraction.
+Matploitlib for image display.
