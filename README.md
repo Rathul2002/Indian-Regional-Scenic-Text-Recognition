@@ -18,6 +18,6 @@ MSER is present in Opencv library.
 
 
 Required Library:
-OpenCV for image processing and MSER.
-Pytorch and easyocr for text extraction.
-Matploitlib for image display.
+1. OpenCV for image processing and MSER.
+2. Pytorch and easyocr for text extraction.
+3. Matploitlib for image display.
